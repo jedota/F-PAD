@@ -1,5 +1,3 @@
-# Flicrk-PAD
-
 # Flickr-PAD: New Face High-Resolution Presentation Attack Detection Database
 # Description
 # Cite
