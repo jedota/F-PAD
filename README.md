@@ -19,15 +19,15 @@ This work will be presented in IWBF 2023: 11th International Workshop on Biometr
 Link: https://ieeexplore.ieee.org/document/10157771
 
 ```
-@INPROCEEDINGS{9956573,
-  author={Tapia, Juan and Droguett, Enrique Lopez and Busch, Christoph},
-  booktitle={2022 26th International Conference on Pattern Recognition (ICPR)}, 
-  title={Alcohol Consumption Detection from Periocular NIR Images Using Capsule Network}, 
-  year={2022},
+@INPROCEEDINGS{10157771,
+  author={Pasmino, Diego and Aravena, Carlos and Tapia, Juan E. and Busch, Christoph},
+  booktitle={2023 11th International Workshop on Biometrics and Forensics (IWBF)}, 
+  title={Flickr-PAD: New Face High-Resolution Presentation Attack Detection Database}, 
+  year={2023},
   volume={},
   number={},
-  pages={959-966},
-  doi={10.1109/ICPR56361.2022.9956573}}
+  pages={1-6},
+  doi={10.1109/IWBF57495.2023.10157771}}
 ```
 
 
