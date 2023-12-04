@@ -16,6 +16,7 @@ Database description
 # Cite
 
 This work will be presented in IWBF 2023: 11th International Workshop on Biometrics and Forensics 2023. Barcelona, April, 2023.
+link: https://ieeexplore.ieee.org/document/10157771
 
 # Download
 **Files requirement access will be given only for Senior researchers, and Profesors using an academic email.**
