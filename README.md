@@ -18,6 +18,19 @@ Database description
 This work will be presented in IWBF 2023: 11th International Workshop on Biometrics and Forensics 2023. Barcelona, April, 2023.
 Link: https://ieeexplore.ieee.org/document/10157771
 
+```
+@INPROCEEDINGS{9956573,
+  author={Tapia, Juan and Droguett, Enrique Lopez and Busch, Christoph},
+  booktitle={2022 26th International Conference on Pattern Recognition (ICPR)}, 
+  title={Alcohol Consumption Detection from Periocular NIR Images Using Capsule Network}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={959-966},
+  doi={10.1109/ICPR56361.2022.9956573}}
+```
+
+
 # Download
 **Files requirement access will be given only for Senior researchers, and Profesors using an academic email.**
 
