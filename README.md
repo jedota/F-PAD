@@ -36,7 +36,7 @@ Link: https://ieeexplore.ieee.org/document/10157771
 
 To extract the images, you should first collect the files together and run "zip -F attack1.zip --out single_attack1.zip" or "zip -s0 attack1.zip --out single_attack1.zip". Then you can simply unzip single_attack1.zip.
 
-- You can download the files for the F-PAD dataset from the following link. [Drobbox](https://www.dropbox.com/scl/fo/j7869ectsgnmdcufsm1si/h?dl=0&rlkey=3ef5u8let40w49e3dehbrh6an).
+- You can download the files for the F-PAD dataset from the following link. [Dropbox](https://www.dropbox.com/scl/fo/j7869ectsgnmdcufsm1si/h?dl=0&rlkey=3ef5u8let40w49e3dehbrh6an).
 
 
 
